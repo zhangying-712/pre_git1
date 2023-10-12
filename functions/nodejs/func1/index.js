@@ -17,5 +17,7 @@ module.exports = async function (params, context, logger) {
   logger.info("commit部署1")
   logger.info("commit部署2")
   logger.info("commit部署3")
+  logger.info("commit部署4")
+
 
 }
